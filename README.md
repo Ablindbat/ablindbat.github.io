@@ -1,6 +1,6 @@
-# blindbat.github.io
+# ablindbat.github.io
 
 
-#BlindBat
+# BlindBat
 
 ### By Rajib
